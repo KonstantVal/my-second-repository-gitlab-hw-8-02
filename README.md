@@ -10,14 +10,10 @@
  5. В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 Решение 1
-1.![1](https://github.com/user-attachments/assets/6698bfaa-17e7-4c9a-87d6-bb8154700785)
-![2](https://github.com/user-attachments/assets/c9a56cfd-eb4a-46e8-b305-b6fb24ecb268)
-![3](https://github.com/user-attachments/assets/9891b0e9-6a71-436e-82cf-3ac48a3c3278)
-![4](https://github.com/user-attachments/assets/dc19caad-24fb-447c-8a95-199389baf20b)
-![5](https://github.com/user-attachments/assets/28b0eda7-d92b-40d0-bcce-e193376b1c06)
-
-
-2.
+![7](https://github.com/user-attachments/assets/a67a2ae0-945e-4a6f-8935-673eae74b2e7)
+![9](https://github.com/user-attachments/assets/aeb8e6b9-969e-481b-8249-6e296781f16e)
+![10](https://github.com/user-attachments/assets/6d11e200-790b-4731-85c6-226fbfc93bd7)
+![14](https://github.com/user-attachments/assets/ea624744-ddfe-42a7-901f-4b2cc1c2902b)
 
 Задание 2
 Что нужно сделать:
@@ -25,6 +21,11 @@
 Создайте новый проект pipeline.
 Перепишите сборку из задания 1 на declarative в виде кода.
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+
+Решение 2
+![15](https://github.com/user-attachments/assets/6969007c-4e7f-45d0-88b5-3126b28d9aab)
+![16](https://github.com/user-attachments/assets/3cf0670d-6083-47a2-a6c1-10f75294c623)
+
 
 Задание 3
 Что нужно сделать:
@@ -34,3 +35,13 @@
 Измените pipeline так, чтобы вместо Docker-образа собирался бинарный go-файл. Команду можно скопировать из Dockerfile.
 Загрузите файл в репозиторий с помощью jenkins.
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+
+Решение 3
+
+![17](https://github.com/user-attachments/assets/7e16dd75-da76-425c-b535-8be9ae54faa0)
+![18](https://github.com/user-attachments/assets/c11c1561-0f0d-43a3-a3c6-d824a7144f08)
+![19](https://github.com/user-attachments/assets/2819205e-2e12-4fbb-91e8-0e24ea3f0842)
+
+
+
+
